@@ -1,7 +1,7 @@
-# demo-repo
-git and github demo
+# Introduction To GIT
+Learning Git and Github
 
-## Git commands
+## c++ code
 
 ```
 #include<iostream>
