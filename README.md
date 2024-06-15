@@ -10,6 +10,7 @@ using namspace std;
 int main()
 {
     cout<<"hello world!";
+    cout<<"welcome to github";
     return 0;
 }
 ```
